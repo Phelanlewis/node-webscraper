@@ -1,0 +1,22 @@
+{
+  "name": "node-webscrape",
+  "version": "1.0.0",
+  "description": "node webscraping",
+  "main": "node-webscrape.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-webscraping"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Phelan Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "tinyreq": "^3.1.4"
+  }
+}
